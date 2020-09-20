@@ -29,9 +29,9 @@ After typing the decided stock name, the user can select the date range from whi
 *	Volume
 *	William’s %
 
+One or all can be selected at all time and will be all shown in the same plot.
 
 ### More information of stocks and quantmode package
-
 
 
 *	Exponential Moving Average. Link: https://en.wikipedia.org/wiki/Moving_average
