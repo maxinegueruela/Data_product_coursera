@@ -4,7 +4,7 @@
 
 
 This assignment is from the Coursera developing data products final course Project.
-The final object is to create a shiny app application  <a href="http://www.shinyapps.io/">Shiny web aplitacion</a> () to reproduce and modify some information. In this work I have decided to show the stock price of one of the many stocks that are available from yahoo finance (finance.yahoo.com) 
+The final object is to create a shiny app application  <a href="http://www.shinyapps.io/">Shiny web aplitacion</a> to reproduce and modify some information. In this work I have decided to show the stock price of one of the many stocks that are available from yahoo finance (finance.yahoo.com) 
 
 
 ## Description
@@ -17,7 +17,7 @@ The quantmode package is used to load the information and process it.
 ## Usage
 
 
-The user should first decide which stock to see. The app loads first Tesla stock (“TSLA”) and the user can type other listed in yahoo finance. For example, this site has the more active stocks https://finance.yahoo.com/most-active/. Some of the most common stocks in 2020 are Amazon (“AMZN”), Apple (“AAPL”) and Google or Alphabet (“GOOG”) among many others.
+The user should first decide which stock to see. The app loads first Tesla stock (“TSLA”) and the user can type other listed in yahoo finance. For example, this site has the more active stocks <a href="https://finance.yahoo.com/most-active">Yahoo finance most active stocks</a>. Some of the most common stocks in 2020 are Amazon (“AMZN”), Apple (“AAPL”) and Google or Alphabet (“GOOG”) among many others.
 After typing the decided stock name, the user can select the date range from which the app will show prices. Then, there are 8 technical indicators that can be added to the plot chart. These are:
 
 *	Exponential Moving Average
